@@ -16,8 +16,7 @@ Gosto da ideia de transformar código em algo que as pessoas possam ver, usar e 
 🗄️ Banco de Dados
 🔍 SQL
 🧠 Lógica de Programação
-🌱 E tudo mais que a tecnologia tiver para me ensinar
-💭 Atualmente...
+🌱 E tudo mais que a tecnologia tiver para me ensinar! 
 
 ```
 const eu = {
