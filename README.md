@@ -1,3 +1,5 @@
+Oie! 
+
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
 
@@ -29,7 +31,7 @@ const eu = {
 
 🌎 Uma frase que me inspira
 
-"Depois do medo, vem o mundo."
+## "Depois do medo, vem o mundo."
 — Clarice Lispector ✨
 
 Acredito que aprender algo novo muitas vezes dá medo. Um código que não funciona, uma tecnologia desconhecida ou aquela sensação de não saber por onde começar fazem parte do processo.
